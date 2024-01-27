@@ -28,6 +28,10 @@
 - Fetch data for Trailer video
 - Update store with trailer video data
 - Embedded the youtube video & make it autoplay &mute
+- Build movie list
+- Build movie card
+- TMDB Image CDN URL
+- usePopularMovie custom hook
 
 # Features
 
