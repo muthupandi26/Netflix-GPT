@@ -16,6 +16,10 @@
 - Implemented sign out
 - update profile
 - fetch from TMDB
+- Bugfix: Sign up user displayName and profile picture update
+- Bugfix: if the user is not logged in Redirect / browse to the login page & vice versa
+- Unsubscribed to the onAuthStateChanged callback
+- Add hardcoded values to the constants file
 
 # Features
 
