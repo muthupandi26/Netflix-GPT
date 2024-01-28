@@ -34,6 +34,9 @@
 - usePopularMovie custom hook
 - GPT search page & GPT search bar
 - Multi-language Feature in my app \*
+- Memoization using for api call with if else
+- Added .env file
+- Adding .env file to gitignore
 
 # Features
 
