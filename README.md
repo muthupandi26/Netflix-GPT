@@ -32,6 +32,8 @@
 - Build movie card
 - TMDB Image CDN URL
 - usePopularMovie custom hook
+- GPT search page & GPT search bar
+- Multi-language Feature in my app \*
 
 # Features
 
